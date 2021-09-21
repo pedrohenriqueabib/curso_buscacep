@@ -1,0 +1,23 @@
+{
+    "name": "composer/buscacep",
+    "description": "para buscar ceps",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "scr/"
+        },
+        "psr-4": {
+            "Composer\\Buscacep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pedrohenriqueabib",
+            "email": "pedrohenriqueabib@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
