@@ -1,5 +1,5 @@
 {
-    "name": "composer/buscacep",
+    "name": "composer_curso/buscacep",
     "description": "para buscar ceps",
     "type": "library",
     "license": "MIT",
